@@ -2,7 +2,7 @@
 The goal of the developer exercise is to take a quick dive into a React Native + Expo project and build a two screen contact manager app. Left Field Labs will be evaluating the code and will schedule a walkthrough call with the developer candidate to discuss design choices.
 
 ## Timelines and Contact
-Expected time of completion is around 2-4 hours of development, fitting the minimum requirements. If there are any questions or troubles, developer candidates may reach out to Matt S, matt@leftfieldlabs.com to get assistance.
+Expected time of completion is around 2-4 hours of development, fitting the minimum requirements. If there are any questions or troubles, developer candidates may reach out to Garrett Wolf, garrett@offerpad.com to get assistance.
 
 ## Setup and Running
 We have spun up a basic Expo (http://expo.io) app, which is a very handy toolset built on top of React Native. You can write your entire app as you would with any React Native - Expo adds more tooling around native features and plugins as well as a great build system.
@@ -14,7 +14,7 @@ All work must be completed on your own fork of the repository. To fork the repos
 ### Install Expo and Mobile Client
 Once you setup your expo dev environment with the setup below
 
-- Install [Expo XDE](https://docs.expo.io/versions/latest/introduction/installation.html) (GUI) or `exp` (Command Line - `npm install -g exp`)
+- Install [Expo](https://docs.expo.io/versions/v30.0.0/introduction/installation) `npm install -g expo-cli`
 
 - Install Expo Mobile ([Android](https://play.google.com/store/apps/details?id=host.exp.exponent) or [iOS](https://itunes.com/apps/exponent)
 
@@ -25,7 +25,7 @@ Once you setup your expo dev environment with the setup below
 - Develop!
 
 ### Turning In
-Once you are satisfied in your progress, please return a link to your forked codebase to Jesse and Matt (or the contact that had assigned this homework). Also, please publish your app to expo (see [How To Publish](https://docs.expo.io/versions/latest/guides/publishing.html#how-to-publish)) and send the link to the published app with your repository link. These links are required for evaluation.
+Once you are satisfied in your progress, please send us a link to your forked codebase. Also, please publish your app to expo (see [How To Publish](https://docs.expo.io/versions/latest/guides/publishing.html#how-to-publish)) and send the link to the published app with your repository link. These links are required for evaluation.
 
 -------------------
 
