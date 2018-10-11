@@ -11,6 +11,8 @@ We have spun up a basic Expo (http://expo.io) app, which is a very handy toolset
 ### Install Expo and Mobile Client
 Once you setup your expo dev environment with the setup below
 
+- Install [Node](https://nodejs.org/en/download/current/)
+
 - Install [Expo](https://docs.expo.io/versions/v30.0.0/introduction/installation) `npm install -g expo-cli`
 
 - Install Expo Mobile ([Android](https://play.google.com/store/apps/details?id=host.exp.exponent) or [iOS](https://itunes.com/apps/exponent)
@@ -22,7 +24,7 @@ Once you setup your expo dev environment with the setup below
 - Develop!
 
 ### Turning In
-Once you are satisfied in your progress, please send us your codebase in a zip file (do not include the node_modules directoey).
+Once you are satisfied in your progress, please send us your codebase in a zip file (do not include the node_modules directory).
 
 -------------------
 
@@ -47,6 +49,7 @@ The detailed contact information page should show the information of the chosen 
 - Contacts are searchable (type in name or number and see list filter)
 - Contacts are in header-sorted list - like native iOS
 
+### Extra Credit
 #### Detailed Contact Info
 - Favorite Contact select persists on app re-launch
 - Ability to interact with contact data - call, email, visit website, open maps with any addresses
