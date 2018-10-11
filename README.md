@@ -15,7 +15,7 @@ Once you setup your expo dev environment with the setup below
 
 - Install [Expo](https://docs.expo.io/versions/v30.0.0/introduction/installation) `npm install -g expo-cli`
 
-- Install Expo Mobile ([Android](https://play.google.com/store/apps/details?id=host.exp.exponent) or [iOS](https://itunes.com/apps/exponent)
+- Install Expo Mobile [Android](https://play.google.com/store/apps/details?id=host.exp.exponent) or [iOS](https://itunes.com/apps/exponent)
 
 - Run `npm install` in the project directory
 
